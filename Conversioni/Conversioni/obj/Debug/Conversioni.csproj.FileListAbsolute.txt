@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Conversioni\Conversioni\bin\Debug\Conversioni.exe.config
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Conversioni\Conversioni\bin\Debug\Conversioni.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Conversioni\Conversioni\bin\Debug\Conversioni.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Conversioni\Conversioni\obj\Debug\Conversioni.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Conversioni\Conversioni\obj\Debug\Conversioni.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Conversioni\Conversioni\obj\Debug\Conversioni.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Conversioni\Conversioni\obj\Debug\Conversioni.pdb
