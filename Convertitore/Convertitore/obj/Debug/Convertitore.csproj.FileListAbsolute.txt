@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Convertitore\Convertitore\obj\Debug\Convertitore.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Convertitore\Convertitore\obj\Debug\Convertitore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Convertitore\Convertitore\bin\Debug\Convertitore.exe.config
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Convertitore\Convertitore\bin\Debug\Convertitore.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Convertitore\Convertitore\bin\Debug\Convertitore.pdb
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Convertitore\Convertitore\obj\Debug\Convertitore.exe
+C:\Users\Administrator\Documents\compiti\Anescu_Armando_C#\Convertitore\Convertitore\obj\Debug\Convertitore.pdb
