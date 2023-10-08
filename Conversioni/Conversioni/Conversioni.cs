@@ -35,7 +35,7 @@ namespace Conversioni
             for(int i=b.Length-1;i>=0;i--)
             {
 
-                if (b[i]==true) 
+                if (b[i]) 
                 {
                     nConvertito = nConvertito + (1 * Math.Pow(2, k));
                 }
